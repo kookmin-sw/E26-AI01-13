@@ -2,7 +2,7 @@
 
 ## 🎯 팀 슬로건
 
-aaa
+The most personal is the most creative
 
 ## 🖼️ 팀 포스터
 
