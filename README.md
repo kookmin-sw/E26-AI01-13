@@ -8,7 +8,7 @@
 
 ## 🖼️ 팀 포스터
 
-
+<img src="./poster.png" width="70%">
 
 ---
 
