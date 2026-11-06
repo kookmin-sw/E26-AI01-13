@@ -10,7 +10,7 @@
 
 ## 🖼️ 팀 포스터
 
-> **The most personal is the most creative**
+> **DeepMark 2050**
 <p align="center">
   <img src="./DeepMark2050_A0_AI01-13.jpg" width="70%">
 </p>
