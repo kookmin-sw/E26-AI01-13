@@ -3,13 +3,16 @@
 ## 🎯 팀 슬로건
 
 > **The most personal is the most creative**
-
+<p align="center">
+  <img src="./poster.png" width="70%">
+</p>
 ---
 
 ## 🖼️ 팀 포스터
 
+> **The most personal is the most creative**
 <p align="center">
-  <img src="./poster.png" width="70%">
+  <img src="./DeepMark2050_A0_AI01-13.jpg" width="70%">
 </p>
 
 ---
